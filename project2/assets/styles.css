@@ -2,61 +2,47 @@
 .sub-heading {
     color: red;
     background-color: gold;
+    /* display: inline; */
 }
 
-body {
-    background-color: gray;
-}
-
-/* h1 {
-    color: red;
+h1 {
+    font-size: 60px;
     background-color: brown;
-} */
-
-.header {
-  font-size: 60px;
-    background-color: brown;
-}
-
-.paragraph {
-    background-color: yellow;
-    text-align: center;
-}
-
-.blue {
-  color: blue;
+    /* display: inline; */
 }
 
 .text {
-    color: purple;
-    background-color: pink;
+  /* display: block; */
+  background-color: red;
+  display: inline;
 }
-
-.content {
-    background-color: black;
-}
-
-/* a {
-
-} */
 
 .link {
     background-color: orange;
     color: black;
+    /* display: inline; */
+    display: block;
 }
 
-#last-paragraph {
-    background-color: white;
+.content {
+  color: green;
+  /* background-color: red; */
 }
 
-/* #last {
-
+.wrapper {
+  background-color: lightpink;
 }
 
-#paragraph {
+.important {
+  background-color: lightgray;
+  color: red;
+  font-size: 30px;
+}
 
-} */
+.text-group {
+  background-color: lightgreen;
+}
 
-#text {
-  background-color: white;
+.links {
+  background-color: black;
 }
