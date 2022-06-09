@@ -1,0 +1,30 @@
+.sub-heading {
+    color: red;
+    background-color: gold;
+}
+
+h1 {
+  color: red;
+  background-color: brown;
+}
+
+.header {
+    color: red;
+    background-color: brown;
+}
+
+.paragraph {
+  color: blue;
+  background-color: yellow;
+  text-align: center;
+}
+
+.text {
+  color: purple;
+  background-color: pink;
+}
+
+.content {
+  background-color: black;
+  color: white;
+}
